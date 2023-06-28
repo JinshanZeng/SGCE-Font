@@ -42,7 +42,7 @@ python test.py --dataroot ./datasets/data --name data_cyclegan --model cycle_gan
 
 
 ## [Datasets](docs/datasets.md)
-https://github.com/JinshanZeng/Stroke_Based_Chinese_Character_Generation_Dataset
+https://github.com/JinshanZeng/SGCE-Font/tree/c57993482294e988a6943eff25efbc384fd887e6/fontdata
 
 ## [Training/Test Tips](docs/tips.md)
 Best practice for training and testing your models.
